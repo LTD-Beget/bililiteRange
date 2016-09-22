@@ -1,0 +1,23 @@
+{
+  "name": "bililiteRange",
+  "version": "2.5.3",
+  "main": "bililiteRange.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dwachss/bililiteRange"
+  },
+  "author": {
+    "name": "Danny Wachsstock"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dwachss/bililiteRange/issues"
+  },
+  "homepage": "https://github.com/dwachss/bililiteRange",
+  "maintainers": [
+    {
+      "name": "dwachss",
+      "email": "d.wachss@prodigy.net"
+    }
+  ]
+}
